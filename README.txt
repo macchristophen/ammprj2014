@@ -51,7 +51,7 @@ II)L'UTENTE (non amministratore) e' in grado di visualizzare solo la lista delle
 
   
 
-5.Una funzionalit‡ ajax (situata in http://spano.sc.unica.it/amm2014/faddaChristian/slide.php):
+5.Una funzionalit√† ajax (situata in http://spano.sc.unica.it/amm2014/faddaChristian/slide.php):
   un semplice slider per le immagini con funzioni di fadeIn() e fadeOut().
   
   
