@@ -15,7 +15,14 @@ b)funzioni di edit, le quali sono: Aggiunta/Cancellazione/Modifica del prodotto 
 c)visualizzazione di tutte le merci presenti nel database   
 
 
-
+ ========================
+Compatibilita' Browser
+========================
+Internet Explorer -- No
+Firefox           -- Si
+Google Chrome     -- Si
+Opera             -- Si
+Firefox           -- Si
 
 
 ==================================
